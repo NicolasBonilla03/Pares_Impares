@@ -35,6 +35,8 @@ form.innerHTML='';
 }
 
 function ParesMayor(){
+    var formm = document.getElementById('formulario');
+    formm.innerHTML= '';
     var form = document.getElementById('form_num');
     form.innerHTML = '';
     var formulario = form; 
@@ -68,6 +70,8 @@ num=0;
 
 }
 function ImparesMayor(){
+    var formm = document.getElementById('formulario');
+    formm.innerHTML= '';
     var form = document.getElementById('form_num');
     form.innerHTML = '';
     var formulario = document.getElementById('form_num'); 
