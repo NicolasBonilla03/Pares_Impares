@@ -9,7 +9,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: linear-gradient(135deg, #00ffff, #ff6ac1);
+  background-color:  #00ffff;
   background-size: cover;
 }
 
@@ -68,7 +68,7 @@ button:hover {
 }
 
   .par, .impar {
-    background: linear-gradient(135deg, #00ffff, #ff6ac1); 
+    background-color:  #00ffff,
     background-size: cover; 
   }
 
